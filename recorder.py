@@ -1,5 +1,5 @@
 import sounddevice
-from scipy.io.wavfile import write
+from scipy.io.wavfile import 
 
 
 fps =44100
