@@ -8,7 +8,7 @@ This project is ideal for beginners learning audio processing in Python.
 ## 📌 Project Overview
 
 This Voice Recorder allows users to:
-- Record audio using the system microphone
+- Record audio using the system 
 - Save the recorded audio as a WAV file
 - Play the output audio using any media player
 
