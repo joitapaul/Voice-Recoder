@@ -14,7 +14,7 @@ This Voice Recorder allows users to:
 
 ---
 
-## 🛠️ Tech 
+## 🛠️ Tech Stack
 
 - **Python**
 - **sounddevice**
