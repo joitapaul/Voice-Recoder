@@ -32,7 +32,7 @@ Voice-Recorder/
 
 ---
 
-## ✨ Resources
+## ✨ 
 
 - 🎤 Records voice through microphone
 - 💾 Saves audio as `Output.wav`
