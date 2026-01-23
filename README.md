@@ -5,7 +5,7 @@ This project is ideal for beginners learning audio processing in Python.
 
 ---
 
-## 📌 Project Overview
+## 📌 Project 
 
 This Voice Recorder allows users to:
 - Record audio using the system microphone
