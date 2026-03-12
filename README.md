@@ -1,4 +1,4 @@
-
+# 🎙️ Voice Recorder (Python)
 
 A simple **Voice Recorder application built using Python** that records audio from the microphone and saves it as a `.wav` file.  
 This project is ideal for beginners learning audio processing in Python.
